@@ -1,4 +1,4 @@
-## chain_b0_dnnz_fiducial.txt
+## chain_b0_dnnz_all_fiducial.txt
 
 Contains the fiducial MCMC chain
 
